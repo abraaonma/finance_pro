@@ -1,0 +1,132 @@
+[27-Apr-2020 17:41:29 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/orcamento/index.php on line 17
+[27-Apr-2020 17:41:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php:6
+Stack trace:
+#0 /home4/datacu83/public_html/projetos/finance/orcamento/index.php(54): include_once()
+#1 {main}
+  thrown in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php on line 6
+[27-Apr-2020 18:00:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/orcamento/index.php on line 17
+[27-Apr-2020 18:00:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php:6
+Stack trace:
+#0 /home4/datacu83/public_html/projetos/finance/orcamento/index.php(54): include_once()
+#1 {main}
+  thrown in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php on line 6
+[27-Apr-2020 18:00:49 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/orcamento/index.php on line 17
+[27-Apr-2020 18:00:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php:6
+Stack trace:
+#0 /home4/datacu83/public_html/projetos/finance/orcamento/index.php(54): include_once()
+#1 {main}
+  thrown in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php on line 6
+[27-Apr-2020 18:28:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/orcamento/index.php on line 17
+[27-Apr-2020 18:28:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php:6
+Stack trace:
+#0 /home4/datacu83/public_html/projetos/finance/orcamento/index.php(54): include_once()
+#1 {main}
+  thrown in /home4/datacu83/public_html/projetos/finance/orcamento/soma.php on line 6
+[27-Apr-2020 18:45:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:50:19 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:50:19 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/index.php on line 19
+[27-Apr-2020 18:50:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:50:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/index.php on line 19
+[27-Apr-2020 18:51:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:51:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/index.php on line 19
+[27-Apr-2020 18:51:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:51:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:52:23 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:52:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/index.php on line 19
+[27-Apr-2020 18:53:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:53:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:54:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:54:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:54:15 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:54:15 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:55:14 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:55:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:55:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 18:55:37 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:55:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:59:34 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:59:34 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 18:59:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 18:59:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:00:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:00:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:00:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 19:04:12 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 19:04:50 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 19:09:05 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:09:05 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:15:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:15:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:15:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:15:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:16:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:16:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:23:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 19:23:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 19:23:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 20:01:18 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 20:19:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 20:23:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 20:23:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 24
+[27-Apr-2020 20:23:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 26
+[27-Apr-2020 20:30:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 20:30:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 20:30:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 20:30:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:11:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:11:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:12:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:12:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:12:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:12:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:13:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 21:13:27 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:13:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:27:50 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:27:50 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:28:24 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:28:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 21:28:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[27-Apr-2020 21:28:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[27-Apr-2020 23:06:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 23:07:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[27-Apr-2020 23:10:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:28:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 08:28:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 08:28:43 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:29:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:29:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:30:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:32:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:34:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:35:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:36:02 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:36:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:42:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:43:34 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:44:22 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:44:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/totalreg.php on line 20
+[28-Apr-2020 08:44:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 08:44:35 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/index.php:1) in /home4/datacu83/public_html/projetos/finance/totalreg.php on line 20
+[28-Apr-2020 10:45:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:45:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:45:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:45:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:55 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:58 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 10:56:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 11:15:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 11:15:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 27
+[28-Apr-2020 11:27:48 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 11:27:49 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 11:31:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 11:31:04 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 11:32:15 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 11:32:16 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 11:32:57 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
+[28-Apr-2020 11:32:57 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/index.php on line 17
+[28-Apr-2020 11:40:54 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/datacu83/public_html/projetos/finance/logando.php on line 23
+[28-Apr-2020 11:40:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/datacu83/public_html/projetos/finance/login.php:1) in /home4/datacu83/public_html/projetos/finance/logando.php on line 25
