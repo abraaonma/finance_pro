@@ -23,7 +23,7 @@
                 session_start();
                 $_SESSION['nome_usuario'] = $result['nome_usuario'];
                 //$endereco = 'index.php';
-                header("Location: index.php");
+                header("Location: login.php");
             }
             else
             {
